@@ -26,4 +26,4 @@ Ngoài việc học tập hằng ngày ra, thì những trải nghiệm thực t
 ## Không có kế hoạch
 Mỗi ngày trôi qua mà bạn không biết phải làm gì, làm những điều vô vi không có ý nghĩa, lợi ích gì cho bản thân. Tôi cảm thấy tiếc nuối khi mà đã đốt cháy thời gian vô ích, không có kế hoạch gì cả ! Khi tốt nghiệp, ngẫm lại thì đã quá muộn. Rồi lúc ấy lại "giá như, dường như". Hãy lập thời gian biểu cho các hoạt động của mình, giúp cho bản thân có kế hoạch, lộ trình cụ thể và đúng đắn hơn.
 
-![thời gian biểu, kế hoạch]({{site.baseurl}}/assets/img/ke-hoach.jpg)
+![thời gian biểu, kế hoạch cuộc sống]({{site.baseurl}}/assets/img/ke-hoach.jpg)
