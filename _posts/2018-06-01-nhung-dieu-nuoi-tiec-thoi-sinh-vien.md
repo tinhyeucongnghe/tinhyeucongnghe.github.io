@@ -41,4 +41,11 @@ Tôi đã biết Tiếng Anh sẽ rất quan trọng, trong thời đại thế 
 ## Chơi game quá nhiều
 Hồi xưa tôi thích đá PES với chơi AOE lắm, chắc hẳn bạn cũng đã từng chơi 2 game đó như tôi, càng chơi càng thích. Một phần chả biết làm gì, lười học, không kế hoạch, rồi ngồi với cái máy tính, lại chơi game. Đốt cháy thời gian quá lãng phí vào những thứ vô bổ, ko giúp ích gì cho bản thân (tôi ko có ý nói những bạn chơi game ra tiền, như vậy thì quá tốt). Tôi nhớ mỗi lần có giải AOE là tôi lại thức khuya để xem, sáng lại dậy muộn, mệt hết cả người...Mỗi lần đi học về là lại ghé qua quán net đá Fifa Online với bạn, chơi 4-5 tiếng đồng hồ, xong về phòng trọ lại chơi. Giờ thì tôi chẳng còn hứng thú với mấy trò ấy nữa, thật may là giờ tôi không còn mê ^^
 
-![học tiếng anh]({{site.baseurl}}/assets/img/hoc-tieng-anh.jpg)
+![chơi game quá nhiều]({{site.baseurl}}/assets/img/choi-game.jpg)
+
+## Không theo đuổi đến cùng một cái gì đó
+Tôi thích nhiều thứ lắm, cái gì cũng làm một tý, cũng biết một tý, nhưng quay đi quẩn lại chả giỏi cái nào cả. Giá mà tôi kiên trì làm một cái gì đó cho đến khi ra trường, thì sẽ rất có thể là một chuyên gia trong lĩnh vực đấy, thời gian sinh viên rất tốt để cho mỗi người có thể rèn luyện một cái gì đó theo sở thích hoặc đam mê, để rồi khi ra trường, ta nắm trong tay một kỹ năng cụ thể mà ta giỏi nhất.
+
+![không theo đuổi đến cùng một cái gì đó]({{site.baseurl}}/assets/img/muc-tieu.jpg)
+___
+> Cảm ơn các bạn đã đọc, chắc phải còn một số điều nữa, mà hiện tại tôi chưa nghĩ ra được, nhưng thôi, cái gì qua rồi không lấy lại được, biết mà sửa và làm tốt hơn mới là điều quan trọng, thà muộn còn hơn là không bao giờ. Hy vọng các bạn sẽ không phải nuối tiếc giống như tôi ^^ Goodluck !
