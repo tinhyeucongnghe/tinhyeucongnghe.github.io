@@ -9,7 +9,7 @@ tags: [SINH VIÊN, NUỐI TIẾC]
 Thời sinh viên, khoảng thời gian đẹp nhất của tuổi thanh xuân, tuổi trẻ nhiệt huyết, tràn đầy năng lượng. Ai chắc cũng sẽ giữ cho mình những kỷ niệm không thể nào quên, đẹp có, xấu có, luôn gắn bó với ta trong tâm trí. Rồi mỗi khi nghĩ lại, ta lại mỉm cười. Tôi cũng có 1 thời sinh viên đáng nhớ, nhiều kỷ niệm, đôi khi nhắc lại cảm thấy buồn cười, và...một chút tiếc nuối.
 
 ## Không chăm chỉ học tập
-Tôi là một thằng khá là lười học, năm nhất trên đất Hà Nội, tôi chưa bao giờ xem bài vở mỗi ngày, chỉ chờ đến lúc chuẩn bị thi mới lôi ra xem, rồi lúc ấy quá muộn vì đọc chả hiểu gì, có hiểu thì hôm sau lại chả nhớ gì. Kết quả học tập không tốt, kéo theo điểm số tổng kết khi ra trường của tôi cũng kém. 5 năm gắn bó với trường ĐH Mỏ - Địa chất (3 năm cao đẳng, 2 năm liên thông ĐH), đến năm cuối rồi, nhìn lại thành tích học tập của mình thấy chán quá, nhưng thời gian đâu có lấy lại được, bản thân phải tự chịu trách nhiệm mà thôi.
+Tôi là một thằng khá là lười học, năm nhất trên đất Hà Nội, tôi chưa bao giờ xem bài vở mỗi ngày, chỉ chờ đến lúc chuẩn bị thi mới lôi ra xem, rồi lúc ấy quá muộn vì đọc chả hiểu gì, có hiểu thì hôm sau lại chả nhớ gì. Kết quả học tập không tốt, kéo theo điểm số tổng kết khi ra trường của tôi cũng kém. 5 năm gắn bó với trường ĐH Mỏ - Địa chất (3 năm cao đẳng, 2 năm liên thông ĐH), đến năm cuối rồi, nhìn lại thành tích học tập thấy chán quá, nhưng thời gian đâu có lấy lại được, bản thân phải tự chịu trách nhiệm mà thôi.
 
 ![không chăm chỉ học tập]({{site.baseurl}}/assets/img/luoi-hoc.jpg)
 
@@ -24,7 +24,7 @@ Ngoài việc học tập hằng ngày ra, thì những trải nghiệm thực t
 ![sinh viên có nên đi làm thêm]({{site.baseurl}}/assets/img/trai-nghiem-thuc-te.jpg)
 
 ## Không có kế hoạch
-Mỗi ngày trôi qua mà bạn không biết phải làm gì, hay làm những điều vô vi không có ý nghĩa, lợi ích gì cho bản thân hoặc mọi người. Tôi cảm thấy tiếc nuối khi mà đã đốt cháy thời gian vô ích, không có kế hoạch gì cả ! Khi tốt nghiệp, ngẫm lại thì đã quá muộn. Rồi lúc ấy lại "giá như, dường như". Hãy lập thời gian biểu cho các hoạt động của mình, giúp bản thân có kế hoạch, lộ trình cụ thể và đúng đắn hơn cho tương lai.
+Mỗi ngày trôi qua mà bạn không biết phải làm gì, hay làm những điều vô vi không có ý nghĩa, lợi ích gì cho bản thân hoặc mọi người. Tôi cảm thấy tiếc nuối khi mà đã đốt cháy thời gian vô ích, không có kế hoạch gì cả ! Khi tốt nghiệp, ngẫm lại thì đã quá muộn. Rồi lúc ấy lại "giá như, dường như". Hãy lập thời gian biểu cho các hoạt động, giúp bản thân có kế hoạch, lộ trình cụ thể và đúng đắn hơn cho tương lai.
 
 ![thời gian biểu, kế hoạch cuộc sống]({{site.baseurl}}/assets/img/ke-hoach.jpg)
 
@@ -35,5 +35,10 @@ Nhìn các bạn "check in" chỗ nọ chỗ kia mà thèm, nhiều lúc bản t
 
 ## Không học tốt Tiếng Anh
 Tôi đã biết Tiếng Anh sẽ rất quan trọng, trong thời đại thế kỷ 21, gần như là một ngôn ngữ cơ bản, nhất là đối với các bạn sinh viên. Ấy vậy mà tôi vẫn lười học Tiếng Anh, khi mà sau này ra trường mới thấy, trong công việc, cuộc sống, rất cần tới Tiếng Anh, có nó thì lương sẽ tốt hơn, sẽ có nhiều cách kiếm tiền hơn, sẽ giao lưu, học hỏi được nhiều hơn từ thế giới. Cũng may là tôi cũng có chút cơ bản, cũng đọc hiểu được, nên tra cứu tài liệu cũng đỡ vất vả. Các bạn hãy cố gắng học tốt Tiếng Anh nhé.
+
+![học tiếng anh]({{site.baseurl}}/assets/img/hoc-tieng-anh.jpg)
+
+## Chơi game quá nhiều
+Hồi xưa tôi thích đá PES với chơi AOE lắm, chắc hẳn bạn cũng đã từng chơi 2 game đó như tôi, càng chơi càng thích. Một phần chả biết làm gì, lười học, không kế hoạch, rồi ngồi với cái máy tính, lại chơi game. Đốt cháy thời gian quá lãng phí vào những thứ vô bổ, ko giúp ích gì cho bản thân (tôi ko có ý nói những bạn chơi game ra tiền, như vậy thì quá tốt). Tôi nhớ mỗi lần có giải AOE là tôi lại thức khuya để xem, sáng lại dậy muộn, mệt hết cả người...Mỗi lần đi học về là lại ghé qua quán net đá Fifa Online với bạn, chơi 4-5 tiếng đồng hồ, xong về phòng trọ lại chơi. Giờ thì tôi chẳng còn hứng thú với mấy trò ấy nữa, thật may là giờ tôi không còn mê ^^
 
 ![học tiếng anh]({{site.baseurl}}/assets/img/hoc-tieng-anh.jpg)
