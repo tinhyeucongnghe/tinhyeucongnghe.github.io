@@ -24,6 +24,16 @@ Ngoài việc học tập hằng ngày ra, thì những trải nghiệm thực t
 ![sinh viên có nên đi làm thêm]({{site.baseurl}}/assets/img/trai-nghiem-thuc-te.jpg)
 
 ## Không có kế hoạch
-Mỗi ngày trôi qua mà bạn không biết phải làm gì, làm những điều vô vi không có ý nghĩa, lợi ích gì cho bản thân. Tôi cảm thấy tiếc nuối khi mà đã đốt cháy thời gian vô ích, không có kế hoạch gì cả ! Khi tốt nghiệp, ngẫm lại thì đã quá muộn. Rồi lúc ấy lại "giá như, dường như". Hãy lập thời gian biểu cho các hoạt động của mình, giúp cho bản thân có kế hoạch, lộ trình cụ thể và đúng đắn hơn.
+Mỗi ngày trôi qua mà bạn không biết phải làm gì, hay làm những điều vô vi không có ý nghĩa, lợi ích gì cho bản thân hoặc mọi người. Tôi cảm thấy tiếc nuối khi mà đã đốt cháy thời gian vô ích, không có kế hoạch gì cả ! Khi tốt nghiệp, ngẫm lại thì đã quá muộn. Rồi lúc ấy lại "giá như, dường như". Hãy lập thời gian biểu cho các hoạt động của mình, giúp bản thân có kế hoạch, lộ trình cụ thể và đúng đắn hơn cho tương lai.
 
 ![thời gian biểu, kế hoạch cuộc sống]({{site.baseurl}}/assets/img/ke-hoach.jpg)
+
+## Không đi du lịch, khám phá địa điểm mới
+Nhìn các bạn "check in" chỗ nọ chỗ kia mà thèm, nhiều lúc bản thân muốn đi lắm nhưng sao chả đứng dậy và nổ máy đi được, chắc do ngại một số điều gì đó. Tôi tiếc vì chưa đi Tam Đảo, đập thủy điện Hòa Bình, Mộc Châu...rất nhiều nơi, nếu dành cho một chút thời gian, tổ chức bạn bè đi thì rất thích và vui nữa. Đi đây đi đó cho mở mang tầm mắt.
+
+![không đi du lịch, khám phá địa điểm mới]({{site.baseurl}}/assets/img/di-phuot.jpg)
+
+## Không học tốt Tiếng Anh
+Tôi đã biết Tiếng Anh sẽ rất quan trọng, trong thời đại thế kỷ 21, gần như là một ngôn ngữ cơ bản, nhất là đối với các bạn sinh viên. Ấy vậy mà tôi vẫn lười học Tiếng Anh, khi mà sau này ra trường mới thấy, trong công việc, cuộc sống, rất cần tới Tiếng Anh, có nó thì lương sẽ tốt hơn, sẽ có nhiều cách kiếm tiền hơn, sẽ giao lưu, học hỏi được nhiều hơn từ thế giới. Cũng may là tôi cũng có chút cơ bản, cũng đọc hiểu được, nên tra cứu tài liệu cũng đỡ vất vả. Các bạn hãy cố gắng học tốt Tiếng Anh nhé.
+
+![học tiếng anh]({{site.baseurl}}/assets/img/hoc-tieng-anh.jpg)
