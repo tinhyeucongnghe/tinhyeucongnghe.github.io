@@ -1,8 +1,8 @@
 title: VuDucHong Official Blog
 description: > # this means to ignore newlines until "baseurl:"
   Chia sẻ về cuộc sống, công việc, những suy nghĩ của cá nhân về mọi thứ trong xã hội. Chia sẻ kiến thức lập trình, đồ họa, thủ thuật internet và nhiều thứ khác
-permalink: ':title/'
-baseurl: "http://tinhyeucongnghe.net" # the subpath of your site, e.g. /blog
+permalink: ':title.html'
+baseurl: "https://tinhyeucongnghe.net" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
