@@ -993,8 +993,7 @@ img {
     text-decoration: none;
     font-weight: bold;
     color: #009688;
-    border: 1px solid #009688;
-    border-style: dashed;
+    border: 1px dashed #009688;
     padding: 3%;
     border-radius: 16px;
     transition: all 0.2s
@@ -1002,5 +1001,5 @@ img {
 
 .redirect-link:hover {
     color: #f60;
-    border: 1px solid #f60;
+    border: 1px dashed #f60;
 }
