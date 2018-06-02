@@ -977,6 +977,7 @@ a.newer-posts:hover {
         width: 100%;
     }
     .post .post-content .post-title {
+        line-height: 100%;
         margin: 0 0 5px;
     }
     .post .post-content .post-title a {
