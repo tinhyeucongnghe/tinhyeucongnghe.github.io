@@ -28,6 +28,16 @@ Mỗi ngày trôi qua mà bạn không biết phải làm gì, hay làm những 
 
 ![thời gian biểu, kế hoạch cuộc sống]({{site.baseurl}}/assets/img/ke-hoach.jpg)
 
+## Tốn thời gian vào game
+Tôi không phải là thằng quá mê muội vào game, đến nỗi phải đốt nhiều tiền vào game. Hồi xưa tôi thích đá PES, Fifa Online với chơi AOE lắm, chắc hẳn bạn cũng đã từng chơi 2 game đó như tôi, càng chơi càng thích. Một phần chả biết làm gì, lười học, không kế hoạch, rồi ngồi với cái máy tính, lại chơi game. Đốt cháy thời gian quá lãng phí vào những thứ vô bổ, ko giúp ích gì cho bản thân (tôi ko có ý nói những bạn chơi game ra tiền, như vậy thì quá tốt). Tôi nhớ mỗi lần có giải AOE là tôi lại thức khuya để xem, sáng lại dậy muộn, mệt hết cả người...Mỗi lần đi học về là lại ghé qua quán net đá Fifa Online với bạn, chơi 4-5 tiếng đồng hồ, xong về phòng trọ lại chơi. Giờ thì tôi chẳng còn hứng thú với mấy trò ấy nữa, thật may là giờ tôi không còn mê ^^.
+
+![chơi game quá nhiều]({{site.baseurl}}/assets/img/choi-game.jpg)
+
+## Dánh quá nhiều thời gian cho việc ngủ
+Chính vì không có kế hoạch rõ ràng, nên các việc tôi làm trở nên chồng chéo nhau, toàn thức khuya chơi game rồi làm linh tinh, xong ngủ muộn, sáng không đi học thì 9-10h mới dậy, có hôm 11-12h, đến bữa trưa đám bạn nấu cơm xong gọi xuống ăn là vừa. Giờ nghĩ lại thấy phí phạm quá, muốn lấy lại mà không được. Bây giờ đi làm rồi, tôi luôn cảm thấy thời gian 24h/ngày là không đủ cho mình, muốn làm nhiều thứ quá, giờ ngủ lại ít đi, muốn ngủ muộn, dậy sớm để làm nhiều việc khác.
+
+![dành quá nhiều thời gian cho việc ngủ]({{site.baseurl}}/assets/img/danh-nhieu-thoi-gian-cho-viec-ngu.jpg)
+
 ## Không đi du lịch, khám phá địa điểm mới
 Nhìn các bạn "check in" chỗ nọ chỗ kia mà thèm, nhiều lúc bản thân muốn đi lắm nhưng sao chả đứng dậy và nổ máy đi được, chắc do ngại một số điều gì đó. Tôi tiếc vì chưa đi Tam Đảo, đập thủy điện Hòa Bình, Mộc Châu...rất nhiều nơi, nếu dành cho một chút thời gian, tổ chức bạn bè đi thì rất thích và vui nữa. Đi đây đi đó cho mở mang tầm mắt.
 
@@ -37,11 +47,6 @@ Nhìn các bạn "check in" chỗ nọ chỗ kia mà thèm, nhiều lúc bản t
 Tôi đã biết Tiếng Anh sẽ rất quan trọng, trong thời đại thế kỷ 21, gần như là một ngôn ngữ cơ bản, nhất là đối với các bạn sinh viên. Ấy vậy mà tôi vẫn lười học Tiếng Anh, khi mà sau này ra trường mới thấy, trong công việc, cuộc sống, rất cần tới Tiếng Anh, có nó thì lương sẽ tốt hơn, sẽ có nhiều cách kiếm tiền hơn, sẽ giao lưu, học hỏi được nhiều hơn từ thế giới. Cũng may là tôi cũng có chút cơ bản, cũng đọc hiểu được, nên tra cứu tài liệu cũng đỡ vất vả. Các bạn hãy cố gắng học tốt Tiếng Anh nhé.
 
 ![học tiếng anh]({{site.baseurl}}/assets/img/hoc-tieng-anh.jpg)
-
-## Chơi game quá nhiều
-Hồi xưa tôi thích đá PES với chơi AOE lắm, chắc hẳn bạn cũng đã từng chơi 2 game đó như tôi, càng chơi càng thích. Một phần chả biết làm gì, lười học, không kế hoạch, rồi ngồi với cái máy tính, lại chơi game. Đốt cháy thời gian quá lãng phí vào những thứ vô bổ, ko giúp ích gì cho bản thân (tôi ko có ý nói những bạn chơi game ra tiền, như vậy thì quá tốt). Tôi nhớ mỗi lần có giải AOE là tôi lại thức khuya để xem, sáng lại dậy muộn, mệt hết cả người...Mỗi lần đi học về là lại ghé qua quán net đá Fifa Online với bạn, chơi 4-5 tiếng đồng hồ, xong về phòng trọ lại chơi. Giờ thì tôi chẳng còn hứng thú với mấy trò ấy nữa, thật may là giờ tôi không còn mê ^^
-
-![chơi game quá nhiều]({{site.baseurl}}/assets/img/choi-game.jpg)
 
 ## Không theo đuổi đến cùng một cái gì đó
 Tôi thích nhiều thứ lắm, cái gì cũng làm một tý, cũng biết một tý, nhưng quay đi quẩn lại chả giỏi cái nào cả. Giá mà tôi kiên trì làm một cái gì đó cho đến khi ra trường, thì sẽ rất có thể là một chuyên gia trong lĩnh vực đấy, thời gian sinh viên rất tốt để cho mỗi người có thể rèn luyện một cái gì đó theo sở thích hoặc đam mê, để rồi khi ra trường, ta nắm trong tay một kỹ năng cụ thể mà ta giỏi nhất.
