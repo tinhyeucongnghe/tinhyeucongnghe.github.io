@@ -5,7 +5,7 @@ permalink: ':title.html'
 baseurl: "https://tinhyeucongnghe.net" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
-
+fbcomments: yes
 # Author Settings
 author: Vu Duc Hong # add your name
 author-img: avatar.jpg # add your photo

@@ -2,6 +2,8 @@
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 
+  <meta property="fb:app_id" content="280727199115906" />
+  <meta property="fb:admins" content="100002355650476"/>
   <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
 
     <meta content="{{ site.title }}" property="og:site_name">
@@ -86,4 +88,6 @@
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+
+  {% include facebook-init.html %}
 </head>
