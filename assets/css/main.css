@@ -986,6 +986,17 @@ a.newer-posts:hover {
     .head-link {
         margin: 10px 0;
     }
+
+    .wrap-content {
+        padding: 20px 10px !important;
+    }
+
+    blockquote {
+        margin-left: 0rem;
+        margin-right: 0rem;
+        text-align: justify;
+        padding-left: 0.6rem;
+    }
 }
 img {
     margin-right: auto;
