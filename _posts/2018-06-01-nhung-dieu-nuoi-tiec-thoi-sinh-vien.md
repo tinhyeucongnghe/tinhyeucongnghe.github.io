@@ -33,7 +33,7 @@ Tôi không phải là thằng quá mê muội vào game, đến nỗi phải đ
 
 ![chơi game quá nhiều]({{site.baseurl}}/assets/img/choi-game.jpg)
 
-## Dánh quá nhiều thời gian cho việc ngủ
+## Dành quá nhiều thời gian cho việc ngủ
 Chính vì không có kế hoạch rõ ràng, nên các việc tôi làm trở nên chồng chéo nhau, toàn thức khuya chơi game rồi làm linh tinh, xong ngủ muộn, sáng không đi học thì 9-10h mới dậy, có hôm 11-12h, đến bữa trưa đám bạn nấu cơm xong gọi xuống ăn là vừa. Giờ nghĩ lại thấy phí phạm quá, muốn lấy lại mà không được. Bây giờ đi làm rồi, tôi luôn cảm thấy thời gian 24h/ngày là không đủ cho mình, muốn làm nhiều thứ quá, giờ ngủ lại ít đi, muốn ngủ muộn, dậy sớm để làm nhiều việc khác.
 
 ![dành quá nhiều thời gian cho việc ngủ]({{site.baseurl}}/assets/img/danh-nhieu-thoi-gian-cho-viec-ngu.jpg)
