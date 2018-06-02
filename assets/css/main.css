@@ -982,6 +982,10 @@ a.newer-posts:hover {
     .post .post-content .post-title a {
         font-size: 21px;
     }
+
+    .head-link {
+        margin: 10px 0;
+    }
 }
 img {
     margin-right: auto;
