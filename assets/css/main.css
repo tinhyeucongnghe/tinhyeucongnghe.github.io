@@ -1002,5 +1002,6 @@ img {
 .redirect-link:hover {
     color: #f60;
     border: 1px dashed #f60;
-    padding: 5%;
+    padding: 4%;
+    border-radius: 18px;
 }
