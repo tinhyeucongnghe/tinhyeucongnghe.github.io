@@ -472,7 +472,7 @@ table tfoot td {
     font-size: 14px;
 }
 .wrapper {
-    max-width: 1250px;
+    /*max-width: 1250px;*/
     position: relative;
 }
 .post, .article-page {
