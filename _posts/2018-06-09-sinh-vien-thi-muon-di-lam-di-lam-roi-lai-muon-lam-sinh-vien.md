@@ -3,7 +3,7 @@ layout: post
 title: Sinh viên thì muốn đi làm, đi làm rồi lại muốn là sinh viên
 date: 2018-06-09
 description: Chắc hẳn có nhiều bạn sinh viên đang ngồi trên ghế nhà trường cũng có suy nghĩ là muốn đi làm kiếm tiền, chứ chả muốn đi học gì cả. Rồi những ai đi làm, sẽ lại có suy nghĩ muốn quay trở lại ghế nhà trường để không phải bon chen ngoài xã hội.
-img: sinh-vien-muon-di-lam-di-lam-lai-muon-la-sinh-vien.jpg.jpg # Add image post (optional)
+img: sinh-vien-muon-di-lam-di-lam-lai-muon-la-sinh-vien.jpg # Add image post (optional)
 tags: [SINH VIÊN MUỐN ĐI LÀM, ĐI LÀM MUỐN LÀ SINH VIÊN]
 ---
 Chắc hẳn có nhiều bạn sinh viên đang ngồi trên ghế nhà trường cũng có suy nghĩ là muốn đi làm kiếm tiền, chứ chả muốn đi học gì cả. Rồi những ai đi làm, sẽ lại có suy nghĩ muốn quay trở lại ghế nhà trường để không phải bon chen ngoài xã hội.
