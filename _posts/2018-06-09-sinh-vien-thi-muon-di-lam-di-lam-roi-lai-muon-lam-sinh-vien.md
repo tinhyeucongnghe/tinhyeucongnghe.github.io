@@ -18,7 +18,7 @@ Bị bó buộc trong ghế nhà trường, bị nghe giáo huấn bởi giảng
 
 ![tại sao sinh viên lại muốn đi làm]({{site.baseurl}}/assets/img/khi-sinh-vien-chan-hoc.jpg)
 
-## Nhưng rồi đi làm lại muốn trở lại thời sinh viên
+## Nhưng rồi đi làm lại muốn trở về thời sinh viên
 
 Cuộc sống không như là mơ, đi làm không phải là thiên đường như các bạn sinh viên đang nghĩ, khi ta đi làm, đồng nghĩa với việc tự lo cho bản thân, lo cho cuộc sống của tương lai. Sáng bạn phải dậy chuẩn bị quần áo, xe cộ, đi làm gần thì còn đỡ, chứ đi làm xa tầm 7-10km thì khá ức chế, nhất là ở các đô thị lớn thì tắc đường là điều khó tránh khỏi. Người bám đầy bụi, bon chen giữa đường phố đông đúc. Cuối tháng nhận lương, rồi bạn phải trang trải cuộc sống, nào là tiền phòng, tiền ăn, tiền cho các mối quan hệ, tiền mua sắm nhu cầu cá nhân. Khi mà bản thân không còn được sự tru cấp từ bố mẹ.
 
